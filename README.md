@@ -10,3 +10,9 @@ While modern aircraft are equipped with cutting-edge technology, accidents still
 
 
 ![Screenshot 2024-10-09 112056](https://github.com/user-attachments/assets/04540fec-501e-4fed-a452-01ca3fbfdc69)
+
+Executive Summary
+
+This project showcases how advanced analytics and predictive modeling were applied to aviation crash data to transform safety protocols. By analyzing historical flight data, key factors such as flight phase and crash causes were identified, enabling accurate prediction of crash probabilities. This data-driven approach helps aviation authorities and airlines address high-risk scenarios and enhance overall safety and risk management strategies.
+
+![image](https://github.com/user-attachments/assets/5f7ff18f-77d2-4847-88bc-92ff975d3d27)
