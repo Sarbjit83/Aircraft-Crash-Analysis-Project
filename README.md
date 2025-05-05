@@ -7,3 +7,6 @@ The goal is not just to analyze the past, but to proactively prevent future trag
 Project Overview
 
 While modern aircraft are equipped with cutting-edge technology, accidents still occur due to a range of factors, from mechanical failures to human errors. By systematically analyzing data from past aviation incidents, we can uncover patterns, assess risk factors, and ultimately provide insights to make flying even safer. This project focuses on a comprehensive analysis of aircraft crashes, leveraging data science to identify trends, contributing factors, and high-risk scenarios to improve the overall safety and reliability of aviation.
+
+
+![Screenshot 2024-10-09 112056](https://github.com/user-attachments/assets/04540fec-501e-4fed-a452-01ca3fbfdc69)
